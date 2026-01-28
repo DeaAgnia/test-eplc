@@ -3,7 +3,7 @@
 Berikut merupakan tahapan cara penggunaan API yang sudah di-develop
 
 ## Clone
-git clone {url_project_git}
+``git clone {url_project_git}``
 
 ## Composer Install
 lakukan composer install untuk meng-install semua dependency yang dibtuhkan :
